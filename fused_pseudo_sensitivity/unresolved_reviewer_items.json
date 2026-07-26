@@ -1,0 +1,11 @@
+{
+  "not_resolved_without_external_material": [
+    "Verified details and citations for Dambra et al. and other related work.",
+    "Scientific/forensic justification for each supplied feature unless --fused-feature-rationale-json is provided.",
+    "Behavioral causes of family-specific gains/losses without raw reports or validated analyst interpretation.",
+    "Temporal drift unless --fused-time-column identifies a verified timestamp.",
+    "Malware execution environment and sandbox-evasion assessment unless --sandbox-metadata-json is provided.",
+    "External generalization beyond the malware families represented in the aligned cohort."
+  ],
+  "pseudo_fusion_status": "Executed only as explicitly acknowledged sensitivity analysis; must not be called sample-level fusion"
+}

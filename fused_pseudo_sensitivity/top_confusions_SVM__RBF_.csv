@@ -1,0 +1,13 @@
+Actual,Predicted,Count,Rate,Dataset,Model
+redline,lockbit,14.0,0.05384615384615385,Fused pseudo sensitivity,SVM (RBF)
+redline,agenttesla,13.0,0.05,Fused pseudo sensitivity,SVM (RBF)
+Akira,MedusaLocker,12.0,0.46153846153846156,Fused pseudo sensitivity,SVM (RBF)
+Black Suit,Akira,10.0,0.3225806451612903,Fused pseudo sensitivity,SVM (RBF)
+lockbit,redline,9.0,0.42857142857142855,Fused pseudo sensitivity,SVM (RBF)
+MedusaLocker,Akira,9.0,0.3103448275862069,Fused pseudo sensitivity,SVM (RBF)
+NanoCore,Kovter,9.0,0.13043478260869565,Fused pseudo sensitivity,SVM (RBF)
+Akira,Black Suit,8.0,0.3076923076923077,Fused pseudo sensitivity,SVM (RBF)
+MedusaLocker,Black Suit,8.0,0.27586206896551724,Fused pseudo sensitivity,SVM (RBF)
+lumma,redline,8.0,0.08333333333333333,Fused pseudo sensitivity,SVM (RBF)
+agenttesla,redline,7.0,0.28,Fused pseudo sensitivity,SVM (RBF)
+Kovter,NanoCore,7.0,0.09722222222222222,Fused pseudo sensitivity,SVM (RBF)

@@ -1,0 +1,15 @@
+{
+  "dataset": "Fused pseudo sensitivity",
+  "validation_protocol": "StratifiedGroupKFold(n_splits=10)",
+  "grouped_validation": true,
+  "n_splits": 10,
+  "ensemble_top_k": 3,
+  "ensemble_models": [
+    "CatBoost",
+    "Random Forest",
+    "XGBoost"
+  ],
+  "ensemble_weight_selection": "inner stratified CV inside each outer training fold",
+  "ensemble_alpha_policy": "selected independently by inner CV in each outer training fold",
+  "note": "Grouped validation uses sample-id-derived groups when available; fused rows use fusion identifiers."
+}

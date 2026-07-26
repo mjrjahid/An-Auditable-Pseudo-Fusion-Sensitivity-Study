@@ -1,0 +1,331 @@
+{
+  "scope": "Fused dataset only",
+  "fusion_method": "target_pseudo_pairing",
+  "random_state": 42,
+  "command_line_arguments": {
+    "data_dir": null,
+    "output_dir": null,
+    "use_gpu": false,
+    "cv_folds": 10,
+    "min_samples": 20,
+    "fusion_mode": "auto",
+    "allow_pseudo_fusion": false,
+    "disk_id_column": null,
+    "memory_id_column": null,
+    "network_id_column": null,
+    "fused_time_column": null,
+    "temporal_train_fraction": 0.7,
+    "sandbox_metadata_json": null,
+    "fused_feature_rationale_json": null,
+    "fused_ensemble_alpha": "auto",
+    "skip_fused_ablation": false,
+    "skip_fused_imbalance_comparison": false,
+    "explain_samples": 100,
+    "explain_perturbations": 20,
+    "explain_perturb_sigma": 0.02,
+    "src_atoms_per_class": 50,
+    "src_nonzero_coefs": 10,
+    "explain_test_size": 0.2
+  },
+  "python": "3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]",
+  "analysis_environment": {
+    "platform": "Windows-10-10.0.19045-SP0",
+    "operating_system": "Windows",
+    "os_release": "10",
+    "architecture": "AMD64",
+    "processor": "Intel64 Family 6 Model 142 Stepping 10, GenuineIntel",
+    "python_executable": "C:\\Users\\F M Jahiduzzaman\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "cpu_count": 8,
+    "network_conditions": "Not measured by this script; do not infer malware-sandbox network conditions from the analysis runtime."
+  },
+  "analysis_execution": {
+    "started_utc": "2026-07-19T18:30:03.158176+00:00",
+    "report_written_utc": "2026-07-19T22:38:49.643817+00:00",
+    "elapsed_seconds_at_report_write": 14926.48614970001
+  },
+  "packages": {
+    "numpy": "2.3.3",
+    "pandas": "2.3.2",
+    "scipy": "1.17.0",
+    "scikit-learn": "1.8.0",
+    "imbalanced-learn": "0.14.1",
+    "xgboost": "3.1.3",
+    "catboost": "1.2.8",
+    "shap": "0.50.0",
+    "lime": "0.2.0.1"
+  },
+  "malware_sandbox_metadata_supplied_by_user": null,
+  "source_files": {
+    "disk": "H:\\KFUPM\\Thesis\\dataset\\DATASET NEW\\newly preprocess\\disk_dataset_reduced.xlsx",
+    "memory": "H:\\KFUPM\\Thesis\\dataset\\DATASET NEW\\newly preprocess\\memory_dataset_reduced.xlsx",
+    "network": "H:\\KFUPM\\Thesis\\dataset\\DATASET NEW\\newly preprocess\\network_dataset_reduced.xlsx"
+  },
+  "source_id_columns": {
+    "disk": null,
+    "memory": null,
+    "network": null
+  },
+  "fused_samples": 1044,
+  "fused_features": 21,
+  "maximum_selected_features_per_stream": 8,
+  "source_preprocessing_audits": {
+    "disk": {
+      "rows_before_preprocessing": 4676,
+      "rows_removed_missing_target": 0,
+      "rows_removed_rare_family": 0,
+      "rows_after_source_filtering": 4676,
+      "raw_feature_columns": [
+        "parent_size",
+        "parent_is_dotnet",
+        "parent_is_i386",
+        "parent_sections",
+        "size_delta",
+        "path_len",
+        "parent_is_gui"
+      ],
+      "numeric_features": [
+        "parent_size",
+        "parent_is_dotnet",
+        "parent_is_i386",
+        "parent_sections",
+        "size_delta",
+        "path_len",
+        "parent_is_gui"
+      ],
+      "categorical_features": [],
+      "missing_values_by_feature": {
+        "parent_size": 0,
+        "parent_is_dotnet": 0,
+        "parent_is_i386": 0,
+        "parent_sections": 0,
+        "size_delta": 0,
+        "path_len": 0,
+        "parent_is_gui": 0
+      },
+      "fold_fitted_operations": [
+        "numeric median imputation",
+        "categorical constant imputation",
+        "unknown-safe ordinal encoding",
+        "mutual-information feature selection",
+        "model-specific standardization",
+        "SMOTE on training fold only"
+      ]
+    },
+    "memory": {
+      "rows_before_preprocessing": 2625,
+      "rows_removed_missing_target": 0,
+      "rows_removed_rare_family": 0,
+      "rows_after_source_filtering": 2625,
+      "raw_feature_columns": [
+        "total_processes",
+        "n_registry_hklm",
+        "path_len",
+        "modules_count",
+        "path_entropy",
+        "n_created_dll",
+        "n_created_tmp"
+      ],
+      "numeric_features": [
+        "total_processes",
+        "n_registry_hklm",
+        "path_len",
+        "modules_count",
+        "path_entropy",
+        "n_created_dll",
+        "n_created_tmp"
+      ],
+      "categorical_features": [],
+      "missing_values_by_feature": {
+        "total_processes": 0,
+        "n_registry_hklm": 0,
+        "path_len": 0,
+        "modules_count": 0,
+        "path_entropy": 0,
+        "n_created_dll": 0,
+        "n_created_tmp": 0
+      },
+      "fold_fitted_operations": [
+        "numeric median imputation",
+        "categorical constant imputation",
+        "unknown-safe ordinal encoding",
+        "mutual-information feature selection",
+        "model-specific standardization",
+        "SMOTE on training fold only"
+      ]
+    },
+    "network": {
+      "rows_before_preprocessing": 1341,
+      "rows_removed_missing_target": 0,
+      "rows_removed_rare_family": 0,
+      "rows_after_source_filtering": 1341,
+      "raw_feature_columns": [
+        "avg_domain_len",
+        "mean_domain_entropy",
+        "n_public_service_domains",
+        "n_unique_tlds",
+        "n_public_ips",
+        "n_unique_ips",
+        "domains_per_conn"
+      ],
+      "numeric_features": [
+        "avg_domain_len",
+        "mean_domain_entropy",
+        "n_public_service_domains",
+        "n_unique_tlds",
+        "n_public_ips",
+        "n_unique_ips",
+        "domains_per_conn"
+      ],
+      "categorical_features": [],
+      "missing_values_by_feature": {
+        "avg_domain_len": 0,
+        "mean_domain_entropy": 0,
+        "n_public_service_domains": 0,
+        "n_unique_tlds": 0,
+        "n_public_ips": 0,
+        "n_unique_ips": 0,
+        "domains_per_conn": 0
+      },
+      "fold_fitted_operations": [
+        "numeric median imputation",
+        "categorical constant imputation",
+        "unknown-safe ordinal encoding",
+        "mutual-information feature selection",
+        "model-specific standardization",
+        "SMOTE on training fold only"
+      ]
+    }
+  },
+  "model_hyperparameters": {
+    "Logistic Regression": {
+      "C": 4.0,
+      "class_weight": "balanced",
+      "dual": false,
+      "fit_intercept": true,
+      "intercept_scaling": 1,
+      "l1_ratio": 0.0,
+      "max_iter": 8000,
+      "n_jobs": null,
+      "penalty": "deprecated",
+      "random_state": null,
+      "solver": "lbfgs",
+      "tol": 0.0001,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "Random Forest": {
+      "bootstrap": true,
+      "ccp_alpha": 0.0,
+      "class_weight": "balanced_subsample",
+      "criterion": "gini",
+      "max_depth": null,
+      "max_features": "sqrt",
+      "max_leaf_nodes": null,
+      "max_samples": null,
+      "min_impurity_decrease": 0.0,
+      "min_samples_leaf": 1,
+      "min_samples_split": 2,
+      "min_weight_fraction_leaf": 0.0,
+      "monotonic_cst": null,
+      "n_estimators": 1200,
+      "n_jobs": 1,
+      "oob_score": false,
+      "random_state": 42,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "SVM (RBF)": {
+      "C": 10.0,
+      "break_ties": false,
+      "cache_size": 1000,
+      "class_weight": "balanced",
+      "coef0": 0.0,
+      "decision_function_shape": "ovr",
+      "degree": 3,
+      "gamma": "scale",
+      "kernel": "rbf",
+      "max_iter": -1,
+      "probability": true,
+      "random_state": 42,
+      "shrinking": true,
+      "tol": 0.001,
+      "verbose": false
+    },
+    "KNN": {
+      "algorithm": "auto",
+      "leaf_size": 30,
+      "metric": "minkowski",
+      "metric_params": null,
+      "n_jobs": null,
+      "n_neighbors": 11,
+      "p": 2,
+      "weights": "distance"
+    },
+    "XGBoost": {
+      "objective": "multi:softprob",
+      "base_score": null,
+      "booster": null,
+      "callbacks": null,
+      "colsample_bylevel": null,
+      "colsample_bynode": null,
+      "colsample_bytree": 0.9,
+      "device": null,
+      "early_stopping_rounds": null,
+      "enable_categorical": false,
+      "eval_metric": "mlogloss",
+      "feature_types": null,
+      "feature_weights": null,
+      "gamma": null,
+      "grow_policy": null,
+      "importance_type": null,
+      "interaction_constraints": null,
+      "learning_rate": 0.04,
+      "max_bin": null,
+      "max_cat_threshold": null,
+      "max_cat_to_onehot": null,
+      "max_delta_step": null,
+      "max_depth": 5,
+      "max_leaves": null,
+      "min_child_weight": 1,
+      "missing": NaN,
+      "monotone_constraints": null,
+      "multi_strategy": null,
+      "n_estimators": 700,
+      "n_jobs": -1,
+      "num_parallel_tree": null,
+      "random_state": 42,
+      "reg_alpha": 0.0,
+      "reg_lambda": 1.5,
+      "sampling_method": null,
+      "scale_pos_weight": null,
+      "subsample": 0.9,
+      "tree_method": "hist",
+      "validate_parameters": null,
+      "verbosity": null
+    },
+    "CatBoost": {
+      "iterations": 1000,
+      "learning_rate": 0.05,
+      "depth": 8,
+      "l2_leaf_reg": 5,
+      "loss_function": "MultiClass",
+      "random_seed": 42,
+      "verbose": false,
+      "auto_class_weights": "Balanced"
+    }
+  },
+  "leakage_controls": [
+    "Exact sample identifiers define fused rows.",
+    "Grouping uses fusion_id during cross-validation.",
+    "Numeric imputation and categorical encoding are fitted only on each training fold.",
+    "Mutual-information feature selection is fitted independently within each training fold.",
+    "Model-specific scaling and SMOTE are fitted only on each training fold.",
+    "Soft-voting model selection and weights use inner CV within each outer training fold."
+  ],
+  "unresolved_reviewer_items_requiring_external_evidence": {
+    "temporal_concept_drift": "Chronological evaluation is completed only when --fused-time-column names a verified collection/execution timestamp. Timestamp-like fused fields detected but not assumed valid: [].",
+    "sandbox_environment_bias": "Malware sandbox conditions are documented only when --sandbox-metadata-json is supplied; the current analysis runtime must not be presented as the malware execution environment.",
+    "feature_scientific_justification": "The script exports provenance and accepts a rationale JSON, but scientific justification must come from the study protocol and literature.",
+    "novelty_and_forensic_workflow": "These are manuscript-level claims and cannot be generated from classifier code alone."
+  }
+}

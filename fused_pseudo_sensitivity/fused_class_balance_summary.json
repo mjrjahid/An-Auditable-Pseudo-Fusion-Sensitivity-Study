@@ -1,0 +1,9 @@
+{
+  "dataset": "Fused",
+  "samples": 1044,
+  "families": 18,
+  "largest_class_samples": 260,
+  "smallest_class_samples": 20,
+  "imbalance_ratio_largest_to_smallest": 13.0,
+  "training_only_treatment": "SMOTE is fitted separately inside each outer training fold; test folds are never resampled."
+}

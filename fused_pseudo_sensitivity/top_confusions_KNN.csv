@@ -1,0 +1,13 @@
+Actual,Predicted,Count,Rate,Dataset,Model
+redline,agenttesla,39.0,0.15,Fused pseudo sensitivity,KNN
+redline,lockbit,34.0,0.13076923076923078,Fused pseudo sensitivity,KNN
+NanoCore,Phorpiex,10.0,0.14492753623188406,Fused pseudo sensitivity,KNN
+redline,Stealc,10.0,0.038461538461538464,Fused pseudo sensitivity,KNN
+Akira,MedusaLocker,9.0,0.34615384615384615,Fused pseudo sensitivity,KNN
+Black Suit,MedusaLocker,9.0,0.2903225806451613,Fused pseudo sensitivity,KNN
+MedusaLocker,Akira,8.0,0.27586206896551724,Fused pseudo sensitivity,KNN
+Black Suit,Akira,8.0,0.25806451612903225,Fused pseudo sensitivity,KNN
+redline,Phorpiex,8.0,0.03076923076923077,Fused pseudo sensitivity,KNN
+redline,SalatStealer,8.0,0.03076923076923077,Fused pseudo sensitivity,KNN
+Akira,Black Suit,7.0,0.2692307692307692,Fused pseudo sensitivity,KNN
+MedusaLocker,Black Suit,7.0,0.2413793103448276,Fused pseudo sensitivity,KNN

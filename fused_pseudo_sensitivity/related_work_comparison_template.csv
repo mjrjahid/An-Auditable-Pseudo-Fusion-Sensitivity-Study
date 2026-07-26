@@ -1,0 +1,3 @@
+Study,Data alignment,Modalities,Fusion level,Classifiers,Explainability,Family-level evaluation,Forensic contribution
+Current exact-ID-aligned fused study,"Exact normalized sample identifier across disk, memory, and network",Disk; memory; network,Sample-level feature fusion,Exported from model_hyperparameters in reproducibility report,SHAP; LIME; class-conditioned SRC,Yes,Must be stated conservatively from generated evidence
+Dambra et al.,REQUIRES VERIFIED SOURCE,REQUIRES VERIFIED SOURCE,REQUIRES VERIFIED SOURCE,REQUIRES VERIFIED SOURCE,REQUIRES VERIFIED SOURCE,REQUIRES VERIFIED SOURCE,REQUIRES VERIFIED SOURCE

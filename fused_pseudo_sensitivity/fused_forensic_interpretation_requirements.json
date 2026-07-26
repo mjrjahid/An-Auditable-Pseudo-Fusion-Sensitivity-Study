@@ -1,0 +1,7 @@
+{
+  "disk": "Interpret only using the actual disk features and raw artefact definitions in the feature manifest/collection protocol.",
+  "memory": "Interpret only using the actual memory features and raw artefact definitions in the feature manifest/collection protocol.",
+  "network": "Interpret only using the actual network features and raw artefact definitions in the feature manifest/collection protocol.",
+  "trust_fusion_when": "Use family-level gains, uncertainty, statistical results, and consistent evidence-stream explanations together.",
+  "do_not_trust_fusion_when": "Do not claim benefit where confidence bounds include no gain, corrected tests are not significant, identifiers are not exact, or execution metadata is missing for an environment-sensitive claim."
+}

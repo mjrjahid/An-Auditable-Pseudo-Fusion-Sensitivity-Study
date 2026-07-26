@@ -1,0 +1,61 @@
+Outer Fold,Model,Selected in Top-k,Inner weighted F1,Inner folds,Weight (normalized),Weight %,Top-k used,Weight power,Selection data
+1,Random Forest,True,0.854916734347208,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+1,XGBoost,True,0.8380811144314162,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+1,CatBoost,True,0.8335972572518804,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+1,SVM (RBF),False,0.6991410338899233,3,0.0,0.0,3,0.0,current outer training fold only
+1,Logistic Regression,False,0.6667214441405594,3,0.0,0.0,3,0.0,current outer training fold only
+1,KNN,False,0.6019191321838604,3,0.0,0.0,3,0.0,current outer training fold only
+2,Random Forest,True,0.8542933409604198,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+2,XGBoost,True,0.8451186317020524,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+2,CatBoost,True,0.8264765849006563,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+2,SVM (RBF),False,0.7170951887886186,3,0.0,0.0,3,0.0,current outer training fold only
+2,Logistic Regression,False,0.6735955757863069,3,0.0,0.0,3,0.0,current outer training fold only
+2,KNN,False,0.6324602183775513,3,0.0,0.0,3,0.0,current outer training fold only
+3,Random Forest,True,0.8642330150424957,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+3,XGBoost,True,0.8483913377137952,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+3,CatBoost,True,0.8481653051187799,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+3,SVM (RBF),False,0.7244711784783894,3,0.0,0.0,3,0.0,current outer training fold only
+3,Logistic Regression,False,0.6855414219324367,3,0.0,0.0,3,0.0,current outer training fold only
+3,KNN,False,0.6149741001326132,3,0.0,0.0,3,0.0,current outer training fold only
+4,Random Forest,True,0.8588529054695938,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+4,XGBoost,True,0.8553789982730192,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+4,CatBoost,True,0.8385034799282227,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+4,SVM (RBF),False,0.7110288249527015,3,0.0,0.0,3,0.0,current outer training fold only
+4,Logistic Regression,False,0.6720493258373651,3,0.0,0.0,3,0.0,current outer training fold only
+4,KNN,False,0.6099763946846606,3,0.0,0.0,3,0.0,current outer training fold only
+5,Random Forest,True,0.8735775923560937,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+5,XGBoost,True,0.8507183295348879,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+5,CatBoost,True,0.83607878308307,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+5,SVM (RBF),False,0.7040246622583375,3,0.0,0.0,3,0.0,current outer training fold only
+5,Logistic Regression,False,0.6871750294547364,3,0.0,0.0,3,0.0,current outer training fold only
+5,KNN,False,0.6114542677740381,3,0.0,0.0,3,0.0,current outer training fold only
+6,Random Forest,True,0.8579762182699837,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+6,XGBoost,True,0.8524047656275737,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+6,CatBoost,True,0.848146754577376,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+6,SVM (RBF),False,0.7180428263959365,3,0.0,0.0,3,0.0,current outer training fold only
+6,Logistic Regression,False,0.6780095446568115,3,0.0,0.0,3,0.0,current outer training fold only
+6,KNN,False,0.6106325564834499,3,0.0,0.0,3,0.0,current outer training fold only
+7,Random Forest,True,0.8725345522748295,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+7,XGBoost,True,0.850426406997015,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+7,CatBoost,True,0.8404821744176615,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+7,SVM (RBF),False,0.7206885302924287,3,0.0,0.0,3,0.0,current outer training fold only
+7,Logistic Regression,False,0.6877309508013894,3,0.0,0.0,3,0.0,current outer training fold only
+7,KNN,False,0.6080375830522956,3,0.0,0.0,3,0.0,current outer training fold only
+8,Random Forest,True,0.8618981659597013,3,0.3388367635683475,33.883676356834755,3,1.0,current outer training fold only
+8,XGBoost,True,0.8491437574448225,3,0.333822641630174,33.3822641630174,3,1.0,current outer training fold only
+8,CatBoost,True,0.8326553923262289,3,0.32734059480147853,32.734059480147856,3,1.0,current outer training fold only
+8,SVM (RBF),False,0.7168567143762533,3,0.0,0.0,3,1.0,current outer training fold only
+8,Logistic Regression,False,0.698929248294431,3,0.0,0.0,3,1.0,current outer training fold only
+8,KNN,False,0.6272888362047387,3,0.0,0.0,3,1.0,current outer training fold only
+9,Random Forest,True,0.8593016600159581,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+9,XGBoost,True,0.8569785872361542,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+9,CatBoost,True,0.8447216257063218,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+9,SVM (RBF),False,0.7264835026048312,3,0.0,0.0,3,0.0,current outer training fold only
+9,Logistic Regression,False,0.6648888665383857,3,0.0,0.0,3,0.0,current outer training fold only
+9,KNN,False,0.6254590750701342,3,0.0,0.0,3,0.0,current outer training fold only
+10,Random Forest,True,0.8686664018997146,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+10,XGBoost,True,0.8538110912230987,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+10,CatBoost,True,0.8443313437407399,3,0.3333333333333333,33.33333333333333,3,0.0,current outer training fold only
+10,SVM (RBF),False,0.7130617506695449,3,0.0,0.0,3,0.0,current outer training fold only
+10,Logistic Regression,False,0.6912032851462504,3,0.0,0.0,3,0.0,current outer training fold only
+10,KNN,False,0.6003469227581592,3,0.0,0.0,3,0.0,current outer training fold only

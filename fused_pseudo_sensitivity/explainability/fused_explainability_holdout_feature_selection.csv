@@ -1,0 +1,22 @@
+Feature,Evidence stream,Mutual information (training fold only),Selected,Selection reason
+disk__parent_size,disk,,True,All 7 supplied disk features retained
+disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+disk__parent_sections,disk,,True,All 7 supplied disk features retained
+disk__size_delta,disk,,True,All 7 supplied disk features retained
+disk__path_len,disk,,True,All 7 supplied disk features retained
+disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+memory__total_processes,memory,,True,All 7 supplied memory features retained
+memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+memory__path_len,memory,,True,All 7 supplied memory features retained
+memory__modules_count,memory,,True,All 7 supplied memory features retained
+memory__path_entropy,memory,,True,All 7 supplied memory features retained
+memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+network__avg_domain_len,network,,True,All 7 supplied network features retained
+network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+network__n_public_service_domains,network,,True,All 7 supplied network features retained
+network__n_unique_tlds,network,,True,All 7 supplied network features retained
+network__n_public_ips,network,,True,All 7 supplied network features retained
+network__n_unique_ips,network,,True,All 7 supplied network features retained
+network__domains_per_conn,network,,True,All 7 supplied network features retained

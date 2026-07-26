@@ -1,0 +1,1261 @@
+Dataset,Model,Fold,Feature,Evidence stream,Mutual information (training fold only),Selected,Selection reason
+Fused pseudo sensitivity,Logistic Regression,1,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,1,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,1,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,1,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,1,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,1,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,1,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,1,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,1,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,1,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,1,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,1,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,1,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,1,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,1,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,1,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,1,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,1,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,1,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,1,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,1,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,2,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,2,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,2,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,2,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,2,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,2,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,2,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,2,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,2,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,2,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,2,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,2,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,2,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,2,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,2,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,2,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,2,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,2,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,2,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,2,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,2,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,3,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,3,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,3,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,3,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,3,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,3,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,3,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,3,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,3,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,3,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,3,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,3,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,3,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,3,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,3,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,3,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,3,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,3,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,3,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,3,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,3,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,4,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,4,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,4,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,4,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,4,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,4,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,4,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,4,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,4,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,4,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,4,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,4,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,4,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,4,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,4,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,4,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,4,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,4,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,4,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,4,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,4,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,5,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,5,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,5,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,5,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,5,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,5,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,5,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,5,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,5,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,5,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,5,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,5,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,5,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,5,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,5,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,5,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,5,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,5,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,5,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,5,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,5,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,6,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,6,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,6,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,6,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,6,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,6,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,6,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,6,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,6,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,6,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,6,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,6,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,6,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,6,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,6,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,6,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,6,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,6,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,6,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,6,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,6,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,7,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,7,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,7,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,7,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,7,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,7,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,7,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,7,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,7,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,7,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,7,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,7,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,7,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,7,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,7,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,7,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,7,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,7,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,7,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,7,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,7,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,8,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,8,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,8,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,8,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,8,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,8,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,8,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,8,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,8,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,8,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,8,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,8,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,8,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,8,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,8,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,8,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,8,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,8,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,8,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,8,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,8,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,9,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,9,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,9,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,9,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,9,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,9,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,9,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,9,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,9,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,9,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,9,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,9,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,9,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,9,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,9,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,9,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,9,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,9,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,9,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,9,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,9,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,10,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,10,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,10,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,10,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,10,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,10,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,10,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Logistic Regression,10,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,10,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,10,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,10,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,10,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,10,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,10,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Logistic Regression,10,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,10,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,10,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,10,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,10,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,10,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Logistic Regression,10,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,1,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,1,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,1,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,1,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,1,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,1,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,1,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,1,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,1,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,1,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,1,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,1,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,1,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,1,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,1,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,1,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,1,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,1,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,1,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,1,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,1,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,2,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,2,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,2,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,2,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,2,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,2,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,2,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,2,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,2,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,2,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,2,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,2,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,2,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,2,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,2,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,2,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,2,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,2,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,2,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,2,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,2,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,3,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,3,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,3,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,3,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,3,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,3,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,3,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,3,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,3,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,3,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,3,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,3,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,3,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,3,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,3,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,3,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,3,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,3,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,3,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,3,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,3,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,4,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,4,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,4,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,4,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,4,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,4,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,4,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,4,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,4,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,4,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,4,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,4,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,4,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,4,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,4,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,4,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,4,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,4,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,4,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,4,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,4,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,5,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,5,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,5,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,5,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,5,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,5,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,5,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,5,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,5,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,5,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,5,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,5,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,5,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,5,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,5,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,5,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,5,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,5,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,5,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,5,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,5,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,6,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,6,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,6,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,6,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,6,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,6,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,6,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,6,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,6,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,6,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,6,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,6,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,6,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,6,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,6,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,6,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,6,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,6,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,6,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,6,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,6,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,7,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,7,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,7,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,7,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,7,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,7,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,7,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,7,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,7,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,7,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,7,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,7,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,7,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,7,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,7,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,7,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,7,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,7,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,7,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,7,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,7,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,8,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,8,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,8,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,8,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,8,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,8,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,8,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,8,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,8,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,8,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,8,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,8,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,8,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,8,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,8,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,8,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,8,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,8,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,8,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,8,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,8,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,9,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,9,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,9,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,9,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,9,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,9,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,9,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,9,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,9,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,9,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,9,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,9,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,9,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,9,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,9,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,9,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,9,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,9,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,9,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,9,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,9,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,10,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,10,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,10,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,10,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,10,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,10,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,10,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,Random Forest,10,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,10,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,10,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,10,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,10,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,10,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,10,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,Random Forest,10,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,10,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,10,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,10,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,10,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,10,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,Random Forest,10,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),1,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),1,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),1,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),1,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),1,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),1,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),1,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),1,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),1,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),1,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),1,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),1,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),1,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),1,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),1,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),1,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),1,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),1,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),1,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),1,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),1,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),2,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),2,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),2,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),2,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),2,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),2,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),2,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),2,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),2,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),2,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),2,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),2,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),2,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),2,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),2,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),2,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),2,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),2,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),2,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),2,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),2,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),3,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),3,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),3,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),3,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),3,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),3,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),3,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),3,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),3,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),3,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),3,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),3,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),3,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),3,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),3,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),3,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),3,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),3,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),3,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),3,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),3,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),4,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),4,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),4,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),4,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),4,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),4,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),4,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),4,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),4,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),4,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),4,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),4,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),4,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),4,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),4,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),4,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),4,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),4,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),4,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),4,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),4,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),5,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),5,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),5,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),5,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),5,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),5,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),5,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),5,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),5,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),5,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),5,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),5,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),5,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),5,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),5,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),5,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),5,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),5,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),5,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),5,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),5,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),6,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),6,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),6,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),6,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),6,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),6,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),6,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),6,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),6,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),6,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),6,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),6,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),6,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),6,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),6,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),6,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),6,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),6,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),6,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),6,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),6,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),7,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),7,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),7,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),7,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),7,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),7,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),7,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),7,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),7,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),7,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),7,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),7,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),7,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),7,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),7,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),7,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),7,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),7,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),7,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),7,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),7,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),8,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),8,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),8,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),8,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),8,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),8,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),8,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),8,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),8,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),8,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),8,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),8,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),8,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),8,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),8,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),8,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),8,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),8,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),8,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),8,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),8,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),9,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),9,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),9,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),9,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),9,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),9,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),9,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),9,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),9,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),9,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),9,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),9,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),9,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),9,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),9,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),9,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),9,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),9,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),9,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),9,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),9,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),10,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),10,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),10,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),10,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),10,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),10,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),10,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,SVM (RBF),10,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),10,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),10,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),10,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),10,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),10,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),10,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,SVM (RBF),10,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),10,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),10,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),10,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),10,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),10,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,SVM (RBF),10,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,1,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,1,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,1,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,1,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,1,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,1,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,1,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,1,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,1,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,1,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,1,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,1,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,1,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,1,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,1,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,1,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,1,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,1,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,1,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,1,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,1,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,2,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,2,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,2,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,2,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,2,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,2,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,2,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,2,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,2,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,2,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,2,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,2,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,2,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,2,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,2,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,2,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,2,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,2,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,2,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,2,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,2,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,3,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,3,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,3,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,3,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,3,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,3,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,3,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,3,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,3,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,3,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,3,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,3,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,3,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,3,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,3,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,3,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,3,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,3,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,3,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,3,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,3,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,4,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,4,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,4,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,4,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,4,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,4,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,4,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,4,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,4,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,4,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,4,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,4,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,4,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,4,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,4,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,4,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,4,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,4,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,4,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,4,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,4,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,5,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,5,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,5,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,5,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,5,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,5,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,5,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,5,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,5,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,5,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,5,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,5,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,5,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,5,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,5,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,5,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,5,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,5,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,5,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,5,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,5,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,6,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,6,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,6,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,6,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,6,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,6,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,6,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,6,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,6,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,6,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,6,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,6,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,6,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,6,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,6,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,6,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,6,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,6,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,6,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,6,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,6,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,7,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,7,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,7,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,7,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,7,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,7,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,7,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,7,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,7,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,7,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,7,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,7,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,7,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,7,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,7,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,7,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,7,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,7,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,7,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,7,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,7,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,8,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,8,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,8,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,8,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,8,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,8,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,8,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,8,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,8,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,8,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,8,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,8,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,8,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,8,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,8,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,8,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,8,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,8,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,8,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,8,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,8,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,9,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,9,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,9,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,9,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,9,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,9,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,9,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,9,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,9,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,9,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,9,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,9,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,9,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,9,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,9,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,9,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,9,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,9,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,9,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,9,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,9,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,10,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,10,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,10,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,10,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,10,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,10,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,10,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,KNN,10,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,10,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,10,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,10,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,10,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,10,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,10,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,KNN,10,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,10,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,10,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,10,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,10,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,10,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,KNN,10,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,1,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,1,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,1,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,1,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,1,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,1,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,1,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,1,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,1,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,1,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,1,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,1,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,1,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,1,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,1,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,1,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,1,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,1,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,1,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,1,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,1,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,2,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,2,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,2,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,2,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,2,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,2,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,2,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,2,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,2,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,2,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,2,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,2,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,2,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,2,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,2,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,2,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,2,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,2,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,2,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,2,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,2,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,3,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,3,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,3,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,3,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,3,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,3,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,3,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,3,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,3,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,3,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,3,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,3,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,3,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,3,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,3,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,3,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,3,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,3,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,3,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,3,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,3,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,4,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,4,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,4,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,4,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,4,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,4,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,4,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,4,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,4,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,4,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,4,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,4,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,4,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,4,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,4,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,4,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,4,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,4,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,4,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,4,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,4,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,5,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,5,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,5,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,5,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,5,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,5,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,5,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,5,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,5,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,5,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,5,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,5,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,5,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,5,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,5,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,5,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,5,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,5,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,5,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,5,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,5,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,6,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,6,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,6,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,6,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,6,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,6,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,6,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,6,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,6,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,6,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,6,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,6,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,6,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,6,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,6,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,6,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,6,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,6,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,6,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,6,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,6,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,7,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,7,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,7,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,7,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,7,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,7,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,7,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,7,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,7,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,7,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,7,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,7,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,7,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,7,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,7,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,7,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,7,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,7,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,7,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,7,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,7,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,8,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,8,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,8,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,8,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,8,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,8,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,8,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,8,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,8,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,8,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,8,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,8,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,8,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,8,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,8,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,8,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,8,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,8,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,8,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,8,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,8,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,9,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,9,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,9,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,9,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,9,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,9,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,9,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,9,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,9,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,9,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,9,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,9,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,9,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,9,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,9,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,9,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,9,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,9,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,9,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,9,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,9,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,10,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,10,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,10,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,10,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,10,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,10,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,10,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,XGBoost,10,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,10,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,10,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,10,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,10,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,10,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,10,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,XGBoost,10,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,10,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,10,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,10,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,10,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,10,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,XGBoost,10,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,1,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,1,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,1,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,1,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,1,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,1,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,1,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,1,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,1,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,1,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,1,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,1,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,1,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,1,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,1,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,1,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,1,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,1,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,1,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,1,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,1,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,2,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,2,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,2,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,2,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,2,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,2,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,2,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,2,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,2,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,2,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,2,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,2,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,2,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,2,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,2,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,2,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,2,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,2,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,2,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,2,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,2,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,3,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,3,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,3,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,3,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,3,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,3,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,3,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,3,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,3,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,3,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,3,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,3,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,3,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,3,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,3,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,3,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,3,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,3,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,3,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,3,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,3,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,4,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,4,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,4,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,4,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,4,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,4,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,4,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,4,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,4,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,4,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,4,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,4,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,4,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,4,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,4,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,4,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,4,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,4,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,4,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,4,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,4,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,5,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,5,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,5,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,5,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,5,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,5,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,5,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,5,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,5,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,5,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,5,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,5,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,5,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,5,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,5,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,5,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,5,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,5,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,5,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,5,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,5,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,6,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,6,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,6,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,6,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,6,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,6,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,6,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,6,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,6,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,6,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,6,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,6,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,6,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,6,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,6,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,6,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,6,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,6,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,6,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,6,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,6,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,7,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,7,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,7,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,7,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,7,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,7,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,7,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,7,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,7,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,7,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,7,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,7,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,7,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,7,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,7,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,7,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,7,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,7,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,7,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,7,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,7,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,8,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,8,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,8,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,8,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,8,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,8,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,8,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,8,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,8,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,8,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,8,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,8,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,8,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,8,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,8,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,8,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,8,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,8,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,8,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,8,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,8,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,9,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,9,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,9,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,9,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,9,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,9,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,9,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,9,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,9,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,9,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,9,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,9,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,9,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,9,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,9,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,9,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,9,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,9,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,9,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,9,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,9,network__domains_per_conn,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,10,disk__parent_size,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,10,disk__parent_is_dotnet,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,10,disk__parent_is_i386,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,10,disk__parent_sections,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,10,disk__size_delta,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,10,disk__path_len,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,10,disk__parent_is_gui,disk,,True,All 7 supplied disk features retained
+Fused pseudo sensitivity,CatBoost,10,memory__total_processes,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,10,memory__n_registry_hklm,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,10,memory__path_len,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,10,memory__modules_count,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,10,memory__path_entropy,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,10,memory__n_created_dll,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,10,memory__n_created_tmp,memory,,True,All 7 supplied memory features retained
+Fused pseudo sensitivity,CatBoost,10,network__avg_domain_len,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,10,network__mean_domain_entropy,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,10,network__n_public_service_domains,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,10,network__n_unique_tlds,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,10,network__n_public_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,10,network__n_unique_ips,network,,True,All 7 supplied network features retained
+Fused pseudo sensitivity,CatBoost,10,network__domains_per_conn,network,,True,All 7 supplied network features retained

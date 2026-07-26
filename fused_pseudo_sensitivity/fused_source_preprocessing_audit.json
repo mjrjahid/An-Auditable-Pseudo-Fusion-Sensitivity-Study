@@ -1,0 +1,128 @@
+{
+  "disk": {
+    "rows_before_preprocessing": 4676,
+    "rows_removed_missing_target": 0,
+    "rows_removed_rare_family": 0,
+    "rows_after_source_filtering": 4676,
+    "raw_feature_columns": [
+      "parent_size",
+      "parent_is_dotnet",
+      "parent_is_i386",
+      "parent_sections",
+      "size_delta",
+      "path_len",
+      "parent_is_gui"
+    ],
+    "numeric_features": [
+      "parent_size",
+      "parent_is_dotnet",
+      "parent_is_i386",
+      "parent_sections",
+      "size_delta",
+      "path_len",
+      "parent_is_gui"
+    ],
+    "categorical_features": [],
+    "missing_values_by_feature": {
+      "parent_size": 0,
+      "parent_is_dotnet": 0,
+      "parent_is_i386": 0,
+      "parent_sections": 0,
+      "size_delta": 0,
+      "path_len": 0,
+      "parent_is_gui": 0
+    },
+    "fold_fitted_operations": [
+      "numeric median imputation",
+      "categorical constant imputation",
+      "unknown-safe ordinal encoding",
+      "mutual-information feature selection",
+      "model-specific standardization",
+      "SMOTE on training fold only"
+    ]
+  },
+  "memory": {
+    "rows_before_preprocessing": 2625,
+    "rows_removed_missing_target": 0,
+    "rows_removed_rare_family": 0,
+    "rows_after_source_filtering": 2625,
+    "raw_feature_columns": [
+      "total_processes",
+      "n_registry_hklm",
+      "path_len",
+      "modules_count",
+      "path_entropy",
+      "n_created_dll",
+      "n_created_tmp"
+    ],
+    "numeric_features": [
+      "total_processes",
+      "n_registry_hklm",
+      "path_len",
+      "modules_count",
+      "path_entropy",
+      "n_created_dll",
+      "n_created_tmp"
+    ],
+    "categorical_features": [],
+    "missing_values_by_feature": {
+      "total_processes": 0,
+      "n_registry_hklm": 0,
+      "path_len": 0,
+      "modules_count": 0,
+      "path_entropy": 0,
+      "n_created_dll": 0,
+      "n_created_tmp": 0
+    },
+    "fold_fitted_operations": [
+      "numeric median imputation",
+      "categorical constant imputation",
+      "unknown-safe ordinal encoding",
+      "mutual-information feature selection",
+      "model-specific standardization",
+      "SMOTE on training fold only"
+    ]
+  },
+  "network": {
+    "rows_before_preprocessing": 1341,
+    "rows_removed_missing_target": 0,
+    "rows_removed_rare_family": 0,
+    "rows_after_source_filtering": 1341,
+    "raw_feature_columns": [
+      "avg_domain_len",
+      "mean_domain_entropy",
+      "n_public_service_domains",
+      "n_unique_tlds",
+      "n_public_ips",
+      "n_unique_ips",
+      "domains_per_conn"
+    ],
+    "numeric_features": [
+      "avg_domain_len",
+      "mean_domain_entropy",
+      "n_public_service_domains",
+      "n_unique_tlds",
+      "n_public_ips",
+      "n_unique_ips",
+      "domains_per_conn"
+    ],
+    "categorical_features": [],
+    "missing_values_by_feature": {
+      "avg_domain_len": 0,
+      "mean_domain_entropy": 0,
+      "n_public_service_domains": 0,
+      "n_unique_tlds": 0,
+      "n_public_ips": 0,
+      "n_unique_ips": 0,
+      "domains_per_conn": 0
+    },
+    "fold_fitted_operations": [
+      "numeric median imputation",
+      "categorical constant imputation",
+      "unknown-safe ordinal encoding",
+      "mutual-information feature selection",
+      "model-specific standardization",
+      "SMOTE on training fold only"
+    ]
+  }
+}

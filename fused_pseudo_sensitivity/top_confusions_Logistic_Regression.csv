@@ -1,0 +1,13 @@
+Actual,Predicted,Count,Rate,Dataset,Model
+redline,agenttesla,24.0,0.09230769230769231,Fused pseudo sensitivity,Logistic Regression
+redline,lockbit,24.0,0.09230769230769231,Fused pseudo sensitivity,Logistic Regression
+MedusaLocker,Black Suit,10.0,0.3448275862068966,Fused pseudo sensitivity,Logistic Regression
+Black Suit,MedusaLocker,10.0,0.3225806451612903,Fused pseudo sensitivity,Logistic Regression
+Akira,Black Suit,8.0,0.3076923076923077,Fused pseudo sensitivity,Logistic Regression
+NanoCore,Kovter,8.0,0.11594202898550725,Fused pseudo sensitivity,Logistic Regression
+Akira,MedusaLocker,7.0,0.2692307692307692,Fused pseudo sensitivity,Logistic Regression
+Black Suit,Akira,7.0,0.22580645161290322,Fused pseudo sensitivity,Logistic Regression
+NanoCore,AsyncRAT,7.0,0.10144927536231885,Fused pseudo sensitivity,Logistic Regression
+MedusaLocker,Akira,6.0,0.20689655172413793,Fused pseudo sensitivity,Logistic Regression
+NanoCore,a310logger,6.0,0.08695652173913043,Fused pseudo sensitivity,Logistic Regression
+redline,lumma,6.0,0.023076923076923078,Fused pseudo sensitivity,Logistic Regression

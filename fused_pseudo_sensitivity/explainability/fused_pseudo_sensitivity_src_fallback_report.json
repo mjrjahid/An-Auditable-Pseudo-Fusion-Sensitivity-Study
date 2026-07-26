@@ -1,0 +1,8 @@
+{
+  "Dataset": "Fused pseudo sensitivity",
+  "Chosen model": "Random Forest",
+  "SRC fallback count": 0,
+  "SRC fallback rate": 0.0,
+  "Fallback sample indices": [],
+  "Interpretation": "Zero fallback means SRC remained class-conditioned and never needed a global dictionary."
+}

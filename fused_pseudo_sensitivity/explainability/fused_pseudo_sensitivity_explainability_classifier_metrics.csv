@@ -1,0 +1,2 @@
+Dataset,Model,accuracy,balanced_accuracy,auroc,auprc,precision_macro,recall_macro,macro_f1,mcc,test_size,n_test_samples
+Fused pseudo sensitivity,Random Forest,0.9090909090909091,0.8360386308326813,0.993109138516433,0.8869556110430711,0.9011123136123137,0.8360386308326813,0.8473616683461046,0.8984514880531094,0.2,209

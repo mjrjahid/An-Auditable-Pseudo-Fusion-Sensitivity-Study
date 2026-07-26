@@ -1,0 +1,5 @@
+Fusion method used: target_pseudo_pairing
+id_exact = true sample-id fusion
+target_pseudo_pairing = class-based pseudo-fusion using target labels only; sensitivity analysis only
+Requested mode: auto
+When auto mode cannot establish exact alignment, pseudo-fusion is stored only under fused_pseudo_sensitivity and is never labelled as genuine sample-level fusion.

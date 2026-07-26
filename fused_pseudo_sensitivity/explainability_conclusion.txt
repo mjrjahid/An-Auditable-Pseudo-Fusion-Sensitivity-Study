@@ -1,0 +1,12 @@
+Explainability summary for the fused dataset
+
+SHAP: Jaccard@10=0.8261, Spearman=0.9042, Cosine=0.9628
+SRC: Jaccard@10=0.6199, Spearman=0.6024, Cosine=0.8716
+LIME: Jaccard@10=0.6189, Spearman=0.6053, Cosine=0.6758
+
+Top Jaccard@10 method: SHAP
+Top Spearman method: SHAP
+Top cosine method: SHAP
+
+SRC is evaluated here as a class-conditioned explainer for exact-ID-aligned multisource malware attribution, especially when investigators need evidence-pattern resemblance in addition to feature attribution.
+In the current run, the class-conditioned SRC pipeline remained on the predicted-class dictionary and the recorded global-dictionary fallback count was zero whenever the class dictionary was available.

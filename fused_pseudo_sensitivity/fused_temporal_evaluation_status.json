@@ -1,0 +1,5 @@
+{
+  "requested": false,
+  "completed": false,
+  "reason": "No verified timestamp supplied through --fused-time-column; temporal results were not fabricated."
+}

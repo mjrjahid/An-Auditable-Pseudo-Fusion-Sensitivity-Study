@@ -1,0 +1,19 @@
+Dataset,Model,Class index,Class,Class Accuracy Mean,Class Accuracy Std,Class Accuracy CI95 Low,Class Accuracy CI95 High,Class Accuracy (mean ± std),Mean Support,Fold Count
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,0,Akira,0.08333333333333333,0.18002057495577392,0.0,0.2,"0.0833 ± 0.1800 [95% CI 0.0000, 0.2000]",2.6,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,1,AsyncRAT,0.95,0.10540925533894598,0.875,1.0,"0.9500 ± 0.1054 [95% CI 0.8750, 1.0000]",3.7,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,2,Black Suit,0.29166666666666663,0.2919971672448422,0.125,0.4666666666666666,"0.2917 ± 0.2920 [95% CI 0.1250, 0.4667]",3.1,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,3,CoinMiner,0.7,0.3220305943597653,0.4995833333333334,0.8666666666666666,"0.7000 ± 0.3220 [95% CI 0.4996, 0.8667]",2.4,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,4,Kovter,0.9160714285714286,0.09890629225952248,0.8571428571428571,0.9714285714285715,"0.9161 ± 0.0989 [95% CI 0.8571, 0.9714]",7.2,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,5,MedusaLocker,0.2333333333333333,0.31622776601683794,0.06666666666666667,0.4333333333333333,"0.2333 ± 0.3162 [95% CI 0.0667, 0.4333]",2.9,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,6,NanoCore,0.9261904761904762,0.0781252362052363,0.8809523809523808,0.9714285714285715,"0.9262 ± 0.0781 [95% CI 0.8810, 0.9714]",6.9,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,7,Phorpiex,0.9800000000000001,0.06324555320336758,0.9400000000000001,1.0,"0.9800 ± 0.0632 [95% CI 0.9400, 1.0000]",5.5,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,8,QuasarRAT,0.85,0.24152294576982394,0.7,1.0,"0.8500 ± 0.2415 [95% CI 0.7000, 1.0000]",2.1,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,9,SalatStealer,0.9428571428571428,0.07377111135633178,0.9,0.9857142857142858,"0.9429 ± 0.0738 [95% CI 0.9000, 0.9857]",6.8,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,10,Socks5Systemz,0.95,0.15811388300841897,0.85,1.0,"0.9500 ± 0.1581 [95% CI 0.8500, 1.0000]",2.0,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,11,Stealc,1.0,0.0,1.0,1.0,"1.0000 ± 0.0000 [95% CI 1.0000, 1.0000]",3.9,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,12,a310logger,0.8333333333333333,0.188398055086813,0.7166666666666666,0.9416666666666667,"0.8333 ± 0.1884 [95% CI 0.7167, 0.9417]",3.6,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,13,agenttesla,0.75,0.22566773346211003,0.6166666666666667,0.8833333333333332,"0.7500 ± 0.2257 [95% CI 0.6167, 0.8833]",2.5,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,14,lockbit,0.7,0.4216370213557839,0.45,0.9,"0.7000 ± 0.4216 [95% CI 0.4500, 0.9000]",2.1,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,15,lumma,0.9277777777777778,0.06874337478989105,0.8866666666666667,0.9688888888888888,"0.9278 ± 0.0687 [95% CI 0.8867, 0.9689]",9.6,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,16,redline,0.9615384615384615,0.03626188621469472,0.9384615384615385,0.9846153846153847,"0.9615 ± 0.0363 [95% CI 0.9385, 0.9846]",26.0,10
+Fused pseudo sensitivity,Top-3 F1-weighted Soft Voting Ensemble,17,wannacry,0.9818181818181818,0.03833063830507128,0.9545454545454545,1.0,"0.9818 ± 0.0383 [95% CI 0.9545, 1.0000]",11.5,10

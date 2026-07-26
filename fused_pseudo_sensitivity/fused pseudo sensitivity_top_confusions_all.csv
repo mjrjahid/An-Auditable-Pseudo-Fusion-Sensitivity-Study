@@ -1,0 +1,73 @@
+Actual,Predicted,Count,Rate,Dataset,Model
+redline,agenttesla,24.0,0.09230769230769231,Fused pseudo sensitivity,Logistic Regression
+redline,lockbit,24.0,0.09230769230769231,Fused pseudo sensitivity,Logistic Regression
+MedusaLocker,Black Suit,10.0,0.3448275862068966,Fused pseudo sensitivity,Logistic Regression
+Black Suit,MedusaLocker,10.0,0.3225806451612903,Fused pseudo sensitivity,Logistic Regression
+Akira,Black Suit,8.0,0.3076923076923077,Fused pseudo sensitivity,Logistic Regression
+NanoCore,Kovter,8.0,0.11594202898550725,Fused pseudo sensitivity,Logistic Regression
+Akira,MedusaLocker,7.0,0.2692307692307692,Fused pseudo sensitivity,Logistic Regression
+Black Suit,Akira,7.0,0.22580645161290322,Fused pseudo sensitivity,Logistic Regression
+NanoCore,AsyncRAT,7.0,0.10144927536231885,Fused pseudo sensitivity,Logistic Regression
+MedusaLocker,Akira,6.0,0.20689655172413793,Fused pseudo sensitivity,Logistic Regression
+NanoCore,a310logger,6.0,0.08695652173913043,Fused pseudo sensitivity,Logistic Regression
+redline,lumma,6.0,0.023076923076923078,Fused pseudo sensitivity,Logistic Regression
+Akira,MedusaLocker,14.0,0.5384615384615384,Fused pseudo sensitivity,Random Forest
+MedusaLocker,Akira,12.0,0.41379310344827586,Fused pseudo sensitivity,Random Forest
+Black Suit,MedusaLocker,12.0,0.3870967741935484,Fused pseudo sensitivity,Random Forest
+Akira,Black Suit,9.0,0.34615384615384615,Fused pseudo sensitivity,Random Forest
+lockbit,redline,8.0,0.38095238095238093,Fused pseudo sensitivity,Random Forest
+Black Suit,Akira,7.0,0.22580645161290322,Fused pseudo sensitivity,Random Forest
+lumma,redline,7.0,0.07291666666666667,Fused pseudo sensitivity,Random Forest
+agenttesla,redline,6.0,0.24,Fused pseudo sensitivity,Random Forest
+MedusaLocker,Black Suit,6.0,0.20689655172413793,Fused pseudo sensitivity,Random Forest
+a310logger,NanoCore,5.0,0.1388888888888889,Fused pseudo sensitivity,Random Forest
+wannacry,redline,4.0,0.034782608695652174,Fused pseudo sensitivity,Random Forest
+Kovter,NanoCore,3.0,0.041666666666666664,Fused pseudo sensitivity,Random Forest
+redline,lockbit,14.0,0.05384615384615385,Fused pseudo sensitivity,SVM (RBF)
+redline,agenttesla,13.0,0.05,Fused pseudo sensitivity,SVM (RBF)
+Akira,MedusaLocker,12.0,0.46153846153846156,Fused pseudo sensitivity,SVM (RBF)
+Black Suit,Akira,10.0,0.3225806451612903,Fused pseudo sensitivity,SVM (RBF)
+lockbit,redline,9.0,0.42857142857142855,Fused pseudo sensitivity,SVM (RBF)
+MedusaLocker,Akira,9.0,0.3103448275862069,Fused pseudo sensitivity,SVM (RBF)
+NanoCore,Kovter,9.0,0.13043478260869565,Fused pseudo sensitivity,SVM (RBF)
+Akira,Black Suit,8.0,0.3076923076923077,Fused pseudo sensitivity,SVM (RBF)
+MedusaLocker,Black Suit,8.0,0.27586206896551724,Fused pseudo sensitivity,SVM (RBF)
+lumma,redline,8.0,0.08333333333333333,Fused pseudo sensitivity,SVM (RBF)
+agenttesla,redline,7.0,0.28,Fused pseudo sensitivity,SVM (RBF)
+Kovter,NanoCore,7.0,0.09722222222222222,Fused pseudo sensitivity,SVM (RBF)
+redline,agenttesla,39.0,0.15,Fused pseudo sensitivity,KNN
+redline,lockbit,34.0,0.13076923076923078,Fused pseudo sensitivity,KNN
+NanoCore,Phorpiex,10.0,0.14492753623188406,Fused pseudo sensitivity,KNN
+redline,Stealc,10.0,0.038461538461538464,Fused pseudo sensitivity,KNN
+Akira,MedusaLocker,9.0,0.34615384615384615,Fused pseudo sensitivity,KNN
+Black Suit,MedusaLocker,9.0,0.2903225806451613,Fused pseudo sensitivity,KNN
+MedusaLocker,Akira,8.0,0.27586206896551724,Fused pseudo sensitivity,KNN
+Black Suit,Akira,8.0,0.25806451612903225,Fused pseudo sensitivity,KNN
+redline,Phorpiex,8.0,0.03076923076923077,Fused pseudo sensitivity,KNN
+redline,SalatStealer,8.0,0.03076923076923077,Fused pseudo sensitivity,KNN
+Akira,Black Suit,7.0,0.2692307692307692,Fused pseudo sensitivity,KNN
+MedusaLocker,Black Suit,7.0,0.2413793103448276,Fused pseudo sensitivity,KNN
+Akira,MedusaLocker,17.0,0.6538461538461539,Fused pseudo sensitivity,XGBoost
+Black Suit,MedusaLocker,11.0,0.3548387096774194,Fused pseudo sensitivity,XGBoost
+MedusaLocker,Black Suit,10.0,0.3448275862068966,Fused pseudo sensitivity,XGBoost
+MedusaLocker,Akira,9.0,0.3103448275862069,Fused pseudo sensitivity,XGBoost
+Black Suit,Akira,9.0,0.2903225806451613,Fused pseudo sensitivity,XGBoost
+lockbit,redline,7.0,0.3333333333333333,Fused pseudo sensitivity,XGBoost
+agenttesla,redline,7.0,0.28,Fused pseudo sensitivity,XGBoost
+lumma,redline,6.0,0.0625,Fused pseudo sensitivity,XGBoost
+redline,agenttesla,6.0,0.023076923076923078,Fused pseudo sensitivity,XGBoost
+CoinMiner,Stealc,5.0,0.20833333333333334,Fused pseudo sensitivity,XGBoost
+Akira,Black Suit,5.0,0.19230769230769232,Fused pseudo sensitivity,XGBoost
+a310logger,NanoCore,4.0,0.1111111111111111,Fused pseudo sensitivity,XGBoost
+Akira,MedusaLocker,14.0,0.5384615384615384,Fused pseudo sensitivity,CatBoost
+MedusaLocker,Akira,10.0,0.3448275862068966,Fused pseudo sensitivity,CatBoost
+Black Suit,Akira,10.0,0.3225806451612903,Fused pseudo sensitivity,CatBoost
+Akira,Black Suit,9.0,0.34615384615384615,Fused pseudo sensitivity,CatBoost
+MedusaLocker,Black Suit,8.0,0.27586206896551724,Fused pseudo sensitivity,CatBoost
+Black Suit,MedusaLocker,7.0,0.22580645161290322,Fused pseudo sensitivity,CatBoost
+redline,agenttesla,7.0,0.026923076923076925,Fused pseudo sensitivity,CatBoost
+lockbit,redline,6.0,0.2857142857142857,Fused pseudo sensitivity,CatBoost
+agenttesla,redline,6.0,0.24,Fused pseudo sensitivity,CatBoost
+lumma,redline,6.0,0.0625,Fused pseudo sensitivity,CatBoost
+a310logger,NanoCore,5.0,0.1388888888888889,Fused pseudo sensitivity,CatBoost
+CoinMiner,SalatStealer,3.0,0.125,Fused pseudo sensitivity,CatBoost

@@ -1,0 +1,13 @@
+Actual,Predicted,Count,Rate,Dataset,Model
+Akira,MedusaLocker,14.0,0.5384615384615384,Fused pseudo sensitivity,CatBoost
+MedusaLocker,Akira,10.0,0.3448275862068966,Fused pseudo sensitivity,CatBoost
+Black Suit,Akira,10.0,0.3225806451612903,Fused pseudo sensitivity,CatBoost
+Akira,Black Suit,9.0,0.34615384615384615,Fused pseudo sensitivity,CatBoost
+MedusaLocker,Black Suit,8.0,0.27586206896551724,Fused pseudo sensitivity,CatBoost
+Black Suit,MedusaLocker,7.0,0.22580645161290322,Fused pseudo sensitivity,CatBoost
+redline,agenttesla,7.0,0.026923076923076925,Fused pseudo sensitivity,CatBoost
+lockbit,redline,6.0,0.2857142857142857,Fused pseudo sensitivity,CatBoost
+agenttesla,redline,6.0,0.24,Fused pseudo sensitivity,CatBoost
+lumma,redline,6.0,0.0625,Fused pseudo sensitivity,CatBoost
+a310logger,NanoCore,5.0,0.1388888888888889,Fused pseudo sensitivity,CatBoost
+CoinMiner,SalatStealer,3.0,0.125,Fused pseudo sensitivity,CatBoost

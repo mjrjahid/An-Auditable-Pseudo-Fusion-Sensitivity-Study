@@ -1,0 +1,13 @@
+Actual,Predicted,Count,Rate,Dataset,Model
+Akira,MedusaLocker,14.0,0.5384615384615384,Fused pseudo sensitivity,Random Forest
+MedusaLocker,Akira,12.0,0.41379310344827586,Fused pseudo sensitivity,Random Forest
+Black Suit,MedusaLocker,12.0,0.3870967741935484,Fused pseudo sensitivity,Random Forest
+Akira,Black Suit,9.0,0.34615384615384615,Fused pseudo sensitivity,Random Forest
+lockbit,redline,8.0,0.38095238095238093,Fused pseudo sensitivity,Random Forest
+Black Suit,Akira,7.0,0.22580645161290322,Fused pseudo sensitivity,Random Forest
+lumma,redline,7.0,0.07291666666666667,Fused pseudo sensitivity,Random Forest
+agenttesla,redline,6.0,0.24,Fused pseudo sensitivity,Random Forest
+MedusaLocker,Black Suit,6.0,0.20689655172413793,Fused pseudo sensitivity,Random Forest
+a310logger,NanoCore,5.0,0.1388888888888889,Fused pseudo sensitivity,Random Forest
+wannacry,redline,4.0,0.034782608695652174,Fused pseudo sensitivity,Random Forest
+Kovter,NanoCore,3.0,0.041666666666666664,Fused pseudo sensitivity,Random Forest

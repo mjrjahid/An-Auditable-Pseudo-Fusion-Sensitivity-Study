@@ -1,0 +1,9 @@
+column,score,reason
+mean_domain_entropy,1.580909768829232,no strong signal
+domains_per_conn,0.6785980611483967,no strong signal
+avg_domain_len,0.6040268456375839,no strong signal
+n_unique_ips,0.47725577926920204,no strong signal
+n_public_ips,0.4735272184936615,no strong signal
+n_unique_tlds,0.08575689783743476,no strong signal
+target,0.08575689783743476,no strong signal
+n_public_service_domains,0.022371364653243846,no strong signal

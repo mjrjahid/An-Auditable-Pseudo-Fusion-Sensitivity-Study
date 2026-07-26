@@ -1,0 +1,23 @@
+{
+  "exact_sample_alignment_available": false,
+  "requested_mode": "auto",
+  "executed_mode": "target_pseudo_pairing",
+  "reason": "Missing usable identifier columns in: disk, memory, network",
+  "modalities_without_detected_identifiers": [
+    "disk",
+    "memory",
+    "network"
+  ],
+  "detected_identifier_columns": {
+    "disk": null,
+    "memory": null,
+    "network": null
+  },
+  "candidate_identifier_evidence_files": {
+    "disk": "construction/disk_candidate_id_columns.csv",
+    "memory": "construction/memory_candidate_id_columns.csv",
+    "network": "construction/network_candidate_id_columns.csv"
+  },
+  "reporting_rule": "Sensitivity analysis only; do not call this genuine sample-level multimodal fusion.",
+  "remediation": "Add the same exact sample identifier (preferably SHA-256) to all three source files, or pass the correct --disk-id-column, --memory-id-column, and --network-id-column names."
+}

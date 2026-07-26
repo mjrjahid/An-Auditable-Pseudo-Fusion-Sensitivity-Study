@@ -1,0 +1,9 @@
+column,score,reason
+path_entropy,2.201904761904762,no strong signal
+n_registry_hklm,0.6114285714285714,no strong signal
+modules_count,0.56,no strong signal
+n_created_tmp,0.4228571428571429,no strong signal
+n_created_dll,0.38285714285714284,no strong signal
+path_len,0.14666666666666667,no strong signal
+total_processes,0.08190476190476191,no strong signal
+target,0.05142857142857143,no strong signal

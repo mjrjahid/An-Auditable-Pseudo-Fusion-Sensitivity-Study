@@ -1,0 +1,11 @@
+Experiment,Requested in this run,Completed,Evidence file,Status
+Exact alignment audit,False,False,fused_alignment_audit.csv,not requested
+Pseudo-fusion sensitivity model comparison,True,True,fused pseudo sensitivity_all_model_results.csv,completed
+Training-fold feature selection,True,True,fused_training_fold_feature_selection.csv,completed
+Class-imbalance comparison,True,True,fused_imbalance_strategy_comparison.csv,completed
+Aligned modality ablation,False,False,fused_aligned_modality_ablation_summary.csv,not requested
+Family-conditional effects,False,False,fused_family_conditional_effects.csv,not requested
+Ensemble alpha sensitivity,True,True,fused_ensemble_alpha_sensitivity.csv,completed
+Model error correlation,True,True,fused_model_error_correlation.csv,completed
+Explainability stability,True,True,explainability/fused_pseudo_sensitivity_explainability_summary.csv,completed
+Temporal robustness,False,False,fused_temporal_evaluation_metrics.csv,not requested
