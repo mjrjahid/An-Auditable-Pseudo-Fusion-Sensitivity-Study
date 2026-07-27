@@ -1,5 +1,4 @@
-"""
-Reviewer-updated standalone fused-dataset experiment:
+""" fused-dataset experiment:
 - loads disk, memory, and network records only to construct the fused benchmark
 - evaluates only the exact-ID-aligned fused cohort and its aligned evidence ablations
 - builds a genuine fused benchmark only from exact normalized sample identifiers
