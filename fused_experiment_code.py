@@ -6,14 +6,10 @@
   labelled sensitivity analysis when exact identifiers are unavailable
 - writes fused-only alignment, feature-provenance, imbalance, ablation,
   ensemble-sensitivity, explainability, and reproducibility reports
-- fits imputation, categorical encoding, feature selection, scaling, and SMOTE
-  only on each training fold
+- fits imputation, categorical encoding, feature selection, scaling, and SMOTE only on each training fold
 - keeps non-GUI matplotlib backend to avoid tkinter/Tcl crashes on Windows
 
-IMPORTANT:
-Target-based fusion is NOT the same as true sample-wise fusion and must not be
-reported as a genuinely multimodal sample-level benchmark.
-"""
+
 
 import argparse
 
